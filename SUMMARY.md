@@ -12,6 +12,8 @@
 * [Wallet Settings](wallet-settings/README.md)
   * [Metamask](wallet-settings/metamask/README.md)
     * [Setting Up](wallet-settings/metamask/setting-up.md)
+  * [Harmony Chrome Extension Wallet](wallet-settings/harmony-chrome-extension-wallet.md)
+  * [1Wallet](wallet-settings/1wallet.md)
 * [Roadmap](roadmap.md)
 * [Terms Of Service and Privacy Policy](terms-of-service-and-privacy-policy.md)
 
