@@ -10,7 +10,7 @@
   * [General Information](basic-guide/general-information.md)
 * [How to make money on NFTs](how-to-make-money-on-nfts.md)
 * [Wallet Settings](wallet-settings/README.md)
-  * [Metamask](wallet-settings/metamask/README.md)
+  * [MetaMask](wallet-settings/metamask/README.md)
     * [Setting Up](wallet-settings/metamask/setting-up.md)
   * [Harmony Chrome Extension Wallet](wallet-settings/harmony-chrome-extension-wallet.md)
   * [1Wallet](wallet-settings/1wallet.md)

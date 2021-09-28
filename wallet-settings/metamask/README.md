@@ -5,5 +5,5 @@ description: >-
   web3 API into every website's javascript context, so that
 ---
 
-# Metamask
+# MetaMask
 
