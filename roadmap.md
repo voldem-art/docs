@@ -1,8 +1,3 @@
----
-description: Testnet phases roadmap
----
-
 # Roadmap
 
-![](.gitbook/assets/1.png)
-
+![](<.gitbook/assets/Beige Step by Step Social Media Post.png>)
