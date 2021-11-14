@@ -1,14 +1,17 @@
 ---
-description: 'Welcome artists, we are happy to have you here!'
+description: Welcome artists, we are happy to have you here!
 ---
 
 # VoldemArt - Introduction
 
 What is VoldemArt?
 
-**VoldemArt** is a NFT marketplace platform on Harmony \(Multi-Chain in future\), where the user can mint/create NFTs for any artist \(art, music, etc\) and sell/purchase NFTs **with incredible low fees and 2 seconds finality.**
+VoldemArt is a new NFT marketplace on Harmony network where the users can mint items and sell them to the collectors with incredibly low fees and 2 seconds finality.&#x20;
 
-_we use as reference_ [_Rarible_](https://app.rarible.com/) _and_ [daVinci ](https://davinci.gallery/)_platforms as reference_
+In the beginning, we use Rarible, openSea as a reference source and our development motto is Harmony network deserves good quality NFTs marketplace such as these platforms.
 
-We will guide you through this documentation, so will be easy for you to connect to the site, configure your wallet, create and sell your art.
+We are still as excited and determined as on the first day for this purpose. We will guide you through this documentation, so will be easy to connect and gain information about site, configure of your wallet and create and sell your art. Nevertheless, in any point that you can't understood or want to ask, check our e-mail links!&#x20;
 
+
+
+Stay with VoldemArt, we appreciate your art.

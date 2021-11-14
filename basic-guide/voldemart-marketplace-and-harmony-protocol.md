@@ -1,12 +1,22 @@
-# VoldemArt Marketplace & Harmony Protocol
+# VoldemArt & Harmony
 
-The VoldemArt is a NFT marketplace that supports the creation, buying and selling of NFTs \(Non - fungible tokens\) minted on [Harmony](http://harmony/) blockchain. That means [ONE](https://www.coingecko.com/en/coins/harmony), the Harmony native token, fuels all transactions on VoldemArt´s platform, in contrast to Rarible or OpenSea that use ETH.
+The VoldemArt is a NFT marketplace that supports artists and don't charge artists with high commissions for nothing. What we do is obvious and everyone can ask about our platform. This is full transparency system.
 
-### **Benefits of Harmony ONE vs. ETH based platforms.** <a id="benefits-of-harmony-one-vs-eth-based-platforms"></a>
+VoldemArt project will be a NFT marketplace on the Harmony Network that will bring together collectors and artist. We choose Harmony rather than others such as Ethereum due to so many benefits and technological advantages.
 
-* NFTs minted on Harmony _**cost less than 0.01$ - 0.001ONE**_ _,_ with [EPoS](https://medium.com/harmony-one/introducing-harmonys-effective-proof-of-stake-epos-2d39b4b8d58#:~:text=The%20effective%20stake%20of%20a,by%20the%20validator%27s%20effective%20stake.) \(Effective Proof-of-Stake\) consensus algorithm, **requiring 99% less energy use than PoW**. Ethereum case is the opposite, 50-100$ approx. for a transaction with PoW \(Proof-of-Work\) consensus algorithm, which required a lot of computational power. **Climate activists have RED FLAGGED ETH 🚩**, specifically, in order to power the data centers that sustain the blockchain they are spending a lot of energy. In VoldemArt, the entrance barrier for newcomers is much lower, giving every single person the NFTs creation possibility, and we can call it **“Green”** ♻️ for the environment.
-* On the Harmony blockchain each block is signed each [2 sec. time](https://medium.com/harmony-one/2-seconds-block-time-on-harmony-mainnet-aba78ee5643f), so the transaction in VoldemArt´s platform as a user experience is like using a VISA.
-* Comparison between Harmony and other crypto blockchains.
+### **Benefits of Harmony ONE** <a href="benefits-of-harmony-one-vs-eth-based-platforms" id="benefits-of-harmony-one-vs-eth-based-platforms"></a>
 
-![](https://lh5.googleusercontent.com/boLGKV6tT4nckuFwXQ3PfKHq0Q5I1i_OstIh8kkxfJsBRIhUaqrbd3ATHaEwA2A1zMY4TVF9qrU0cklV5epn8ztIm1vs6WuEDXtIVFJBJHyjjQ14OO4RASP6s1GWW0mmmdKbgbQ)
+• The one of the biggest advantages of Harmony Network is minting cost is very low (less than 0.01$), with Effective proof of stake consensus algorithm, requiring 99% less energy use than PoW. Therefore we can say that Harmony Network is user friendly and "Green" ecosystem.&#x20;
+
+
+
+• The other advantage of Harmony is "speed". In the 21th century, we no longer want to wait transactions and payments to buy or sell something especially on the decentralized world. But Ethereum network, due to its own protocol limitations, wants high fees and presents slow processing. So, Harmony network gives more useful and better advanced technologies rather than other networks.&#x20;
+
+
+
+• Also ONE core team offers many supports to developers. They have approx. 300M $ fund for the new projects on the Harmony to support their communities and build up their ecosystem. It's not just a question of money, additionally a lot technical and other supports to developers and users. In our opinion, Harmony core team is the Number#1 about promoting and encouraging for new projects.
+
+
+
+Taking all these in consideration, we can easily say, Harmony Network better than others. Hereby, we choose the Harmony network for the benefits of all voldies! If you look at the our roadmap, you can easily understand that we are not only a NFT marketplace. Our main goal is launching NFT marketplace in this quarter that all users and Harmony network deserves it. After that, we spared our incomes to the other projects like Metaverse & Game Launch and Tokenomics. Our vision is not limited to the NFT, we are devoted to cryptocurrencies.
 
