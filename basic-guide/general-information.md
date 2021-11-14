@@ -6,7 +6,7 @@ Medium: [https://voldemart.medium.com/](https://voldemart.medium.com)
 
 Discord: [VoldemArt ](https://discord.gg/2EFCewzqp8)
 
-Telegram: https://t.me/voldem\_art
+Telegram: [https://t.me/voldem\_art](https://t.me/voldem\_art)
 
 Website: [https://voldem.art](https://voldem.art)
 
